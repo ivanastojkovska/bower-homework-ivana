@@ -1,0 +1,21 @@
+{
+  "name": "Picture-zoom-in",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ivanastojkovska/Picture-zoom-in",
+  "authors": [
+    "ivanastojkovska <i.stojkovska@outlook.com>"
+  ],
+  "description": "zoom your picture",
+  "main": "zoom-in.css",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "marina-gallery",
+  "homepage": "https://github.com/marina-g/marina-gallery",
+  "description": "\"Simple gallery view plugin\"",
+  "main": "app.js",
+  "authors": [
+    "Marina Giovska"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  },
+  "_release": "00f3cf9a4a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "00f3cf9a4aa86ec754346761f87d0f9874f383ea"
+  },
+  "_source": "git://github.com/marina-g/marina-gallery.git",
+  "_target": "*",
+  "_originalSource": "marina-g/marina-gallery",
+  "_direct": true
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Picture-zoom-in",
+  "homepage": "https://github.com/ivanastojkovska/Picture-zoom-in",
+  "authors": [
+    "ivanastojkovska <i.stojkovska@outlook.com>"
+  ],
+  "description": "zoom your picture",
+  "main": "zoom-in.css",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "87c4fa9ece",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "87c4fa9ece4e18acb0c31a299e18a1102484e292"
+  },
+  "_source": "git://github.com/ivanastojkovska/picture-zoom-in.git",
+  "_target": "*",
+  "_originalSource": "ivanastojkovska/picture-zoom-in"
+}
